@@ -1,6 +1,8 @@
-# ExamenEjerciciosAngular
+# To-Do-App
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.7.
+It's a website for managing your tasks, where you can enter a task title, set the task's priority, and mark it as completed or delete it.
+
 
 ## Development server
 
